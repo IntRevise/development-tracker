@@ -1,0 +1,28 @@
+{
+    "mason": [
+        {
+            "details_name": "Mason de Quincey",
+            "details_hobby": "Programming",
+            "details_email": "deqmas@wootton.beds.sch.uk",
+            "details_description": "Year 11, GCSE Student",
+            "details_icon": "https://intrevise.axtonprice.com/assets/usercontent/discord/776379465231630346.gif",
+            "social_github": "https://github.com/masondq",
+            "social_spotify": "",
+            "social_website": "https://surge-networks.co.uk/",
+            "social_custom": "https://lab.surge-networks.co.uk/mason"
+        }
+    ],
+    "roan": [
+        {
+            "details_name": "Roan Price",
+            "details_hobby": "Programming, Web Dev",
+            "details_email": "priroa@wootton.beds.sch.uk",
+            "details_description": "Year 11, GCSE Student",
+            "details_icon": "https://intrevise.axtonprice.com/assets/usercontent/discord/360832097495285761.gif",
+            "social_github": "https://github.com/axtonprice",
+            "social_spotify": "https://open.spotify.com/user/4vaxa6cb9diyaj9741lwu307m",
+            "social_website": "https://surge-networks.co.uk/",
+            "social_custom": ""
+        }
+    ]
+}
