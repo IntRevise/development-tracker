@@ -21,7 +21,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/axtonprice/intrevise/issues). If you'd like to contribute, ask us on the **[IntRevise Discord](https://discord.gg/dP3MuBATGc)**.
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/axtonprice/intrevise/issues). If you'd like to contribute, ask us on the **[IntRevise Discord](https://discord.gg/XAaWQ2Et7J )**.
 
 ## Show your support
 
