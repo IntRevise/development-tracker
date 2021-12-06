@@ -16,12 +16,12 @@
 
 * Website: https://axtonprice.com
 * Twitter: [@axtonprice](https://twitter.com/axtonprice)
-* Github: [@axtonprice](https://github.com/axtonprice)
-* Discord: [@axtonprice](https://discord.gg/dP3MuBATGc)
+* Github: [@axtonprice](https://github.com/axtonprice), [@masondq](https://github.com/masondq)
+* Discord: [@Axton P.#1234](https://discord.gg/dP3MuBATGc)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/axtonprice/intrevise/issues). You can also take a look at the [contributing guide](https://discord.gg/dP3MuBATGc).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/axtonprice/intrevise/issues). If you'd like to contribute, ask us on the **[IntRevise Discord](https://discord.gg/dP3MuBATGc)**.
 
 ## Show your support
 
