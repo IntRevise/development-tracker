@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to IntRevise 👋</h1>
+<h1 align="center">Welcome to the IntRevise repo tracker! 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/axtonprice" target="_blank">
@@ -25,6 +25,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if youd like to keep track of project development, or to show your support!
 
 ***
