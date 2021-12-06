@@ -14,9 +14,10 @@
 
 👤 **axtonprice, masondq**
 
-* Website: https://discord.gg/dP3MuBATGc
+* Website: https://axtonprice.com
 * Twitter: [@axtonprice](https://twitter.com/axtonprice)
 * Github: [@axtonprice](https://github.com/axtonprice)
+* Discord: [@axtonprice](https://discord.gg/dP3MuBATGc)
 
 ## 🤝 Contributing
 
@@ -27,4 +28,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
