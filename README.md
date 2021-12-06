@@ -10,7 +10,7 @@
 
 ### 🏠 [Homepage](https://intrevise.axtonprice.com)
 
-## Author
+## Authors
 
 👤 **axtonprice, masondq**
 
