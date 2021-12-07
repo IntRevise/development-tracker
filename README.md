@@ -25,6 +25,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## Show your support
 
-Give a ⭐️ if youd like to keep track of project development, or to show your support!
+Give a ⭐️ if you'd like to keep track of project development, or to show your support!
 
 ***
