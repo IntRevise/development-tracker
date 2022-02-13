@@ -16,7 +16,7 @@
 
 * Website: https://axtonprice.com
 * Github: [@axtonprice](https://github.com/axtonprice), [@masondq](https://github.com/masondq)
-* Discord: [@Axton P.#1234](https://discord.gg/dP3MuBATGc)
+* Discord: [Join](https://discord.gg/dP3MuBATGc)
 
 ## 🤝 Contributing
 
