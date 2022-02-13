@@ -8,14 +8,13 @@
 
 > The official IntRevise repo, created to manage and keep track of project development.
 
-### 🏠 [Homepage](https://intrevise.axtonprice.com)
+### 🏠 [Homepage](https://intrevise.co.uk)
 
 ## Authors
 
 👤 **axtonprice, masondq**
 
 * Website: https://axtonprice.com
-* Twitter: [@axtonprice](https://twitter.com/axtonprice)
 * Github: [@axtonprice](https://github.com/axtonprice), [@masondq](https://github.com/masondq)
 * Discord: [@Axton P.#1234](https://discord.gg/dP3MuBATGc)
 
