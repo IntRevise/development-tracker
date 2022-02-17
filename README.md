@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to the IntRevise Tracker! 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.8%20Pre-Beta-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.8%20Pre%20Beta-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/axtonprice" target="_blank">
     <img alt="Twitter: axtonprice" src="https://img.shields.io/twitter/follow/axtonprice.svg?style=social" />
   </a>
