@@ -1,6 +1,5 @@
 <h1 align="center">Welcome to the IntRevise Tracker! 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.8%20Pre%20Beta-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/axtonprice" target="_blank">
     <img alt="Twitter: axtonprice" src="https://img.shields.io/twitter/follow/axtonprice.svg?style=social" />
   </a>
@@ -9,14 +8,6 @@
 > The official IntRevise repo, created to manage and keep track of project development.
 
 ### 🏠 [Homepage](https://intrevise.co.uk)
-
-## Authors
-
-👤 **axtonprice, masondq**
-
-* Website: https://axtonprice.com
-* Github: [@axtonprice](https://github.com/axtonprice), [@masondq](https://github.com/masondq)
-* Discord: [Join Server](https://discord.gg/dP3MuBATGc)
 
 ## 🤝 Contributing
 
